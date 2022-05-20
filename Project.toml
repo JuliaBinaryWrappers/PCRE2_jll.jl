@@ -1,6 +1,6 @@
 name = "PCRE2_jll"
 uuid = "efcefdf7-47ab-520b-bdef-62a2eaa19f15"
-version = "10.36.0+3"
+version = "10.40.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,4 +10,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.6"
+julia = "1.9"
