@@ -1,170 +1,170 @@
 [[PCRE2]]
 arch = "aarch64"
-git-tree-sha1 = "0ab4158eb86f2aa8fb9baee02a29f309237878eb"
+git-tree-sha1 = "fe4907061bb94f58a8ccd64f84883f6c3ee26255"
 os = "macos"
 
     [[PCRE2.download]]
-    sha256 = "c2227c9c358de706400a1e700eeffd870d63e374577bf8be5cfebde76b1bc023"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f812ba8ded03bd2d6aeeb2e2667bf991ce4e86fa29cd9dd07407680dc5bd8eeb"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.aarch64-apple-darwin.tar.gz"
 [[PCRE2]]
 arch = "aarch64"
-git-tree-sha1 = "d77a7ab3aae19d8a074f8b6bb0dc49019710fdb4"
+git-tree-sha1 = "bb0f4e8b24428829b606567588e409b20a51d10a"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "57aa313cec85b1ee74372893b96cc74d39cce1c94e0944e4b7379662ebdbbd64"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "022de3b0747135aad398a663e4224a1895ad54c6ad21bd9653d0f8b253493cc9"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.aarch64-linux-gnu.tar.gz"
 [[PCRE2]]
 arch = "aarch64"
-git-tree-sha1 = "c403b47c894b3ab0b609a5999fb505f427108856"
+git-tree-sha1 = "a9e6e8328a744dea6249b150aa8e5e0c92348111"
 libc = "musl"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "213249b34b9b07e9f963597c8e080c855db3c0855e4d6e5db7b7cd0e9a9e75b4"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.aarch64-linux-musl.tar.gz"
+    sha256 = "35131637603a5a24a2c78734aed2967f20b9d52697abdb3aed70b6c72d9cae48"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.aarch64-linux-musl.tar.gz"
 [[PCRE2]]
 arch = "aarch64"
-git-tree-sha1 = "70f1d2e1c275d7e09b5f73ad1fe8d41763827d39"
+git-tree-sha1 = "14a6a339b9200db7bd0f5cc36035857322e571f7"
 os = "freebsd"
 
     [[PCRE2.download]]
-    sha256 = "84d5e57335fd414572f5a666b5ee97aff3bfcbd43fc8edca0938fc9c0b11d747"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "9d8e14c91a6c2119823833efff6061a055368b8da951b7c7be08ed5148cf6b61"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.aarch64-unknown-freebsd.tar.gz"
 [[PCRE2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fdcd91aafc8a0f026aab237f8a294e652b1433f5"
+git-tree-sha1 = "153155fbf8967952d96ceae7267bd4780221888a"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "a5cee2fd31268be68f46429ca802b9e812a2a43b0a2f8703197dc919f9934bf3"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "5c646be70abe72ae1dfd1687e756ff549b4cf0a39768f26effbd5cdadb937cbc"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.armv6l-linux-gnueabihf.tar.gz"
 [[PCRE2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4aa72e7345e468c2fda6a863d414572c3ef23950"
+git-tree-sha1 = "ce57f27c9c581deab622e2fb9d2078134d3c2dd5"
 libc = "musl"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "ccb22f4afebbe83743cfeee49e998da0a96f6a6e883188a678d4eafbcad78857"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f8b95b34acc235cfa3b2acf1f04765bc53dc31d08647dbfa50a245b13a488a3b"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.armv6l-linux-musleabihf.tar.gz"
 [[PCRE2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2c0901412df7409d6a630ce67eafed039dc5a499"
+git-tree-sha1 = "d35f8eea5c0988564754af3b34b40b7b8a125dbd"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "4586daeb1996a7d5848cf23f30ea4861202e8d9b979684b3e6809740a3fd4b51"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ab0b6e4c1bffc7a156a79e43e76b93077ee41318b07ec83b60867cdcf8819df9"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.armv7l-linux-gnueabihf.tar.gz"
 [[PCRE2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e9ca777cd9b4e4f9abf323bf8e39a5874c47c3e8"
+git-tree-sha1 = "e7d2f5e9af2e3107296198aea59691f2dd311398"
 libc = "musl"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "54975a2367099faeb3bdb8b949e8d8656e944d8430b23ef4764b7f8e07ddd71b"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "95492f6e8b8066b4831d1a067e40c05cad8154501e3362c645132ec0efc2d0e8"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.armv7l-linux-musleabihf.tar.gz"
 [[PCRE2]]
 arch = "i686"
-git-tree-sha1 = "4c4fee86b173da24d804f6a28b9abb23e3bb3429"
+git-tree-sha1 = "441ff4ad99ca0c4f15beedaa36527dbfb8fc9451"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "8f2c63b052c0fcfa4b8f4db42e96cefe88027066e1f7fc2b062af2188d0737cc"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.i686-linux-gnu.tar.gz"
+    sha256 = "da18a9e115ef04ab2a496d999cf83f0fefbed44455ea4282d0e837a0066f208f"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.i686-linux-gnu.tar.gz"
 [[PCRE2]]
 arch = "i686"
-git-tree-sha1 = "2a1702fbbfc29ff53318ab31d802ed7f9fad8ec2"
+git-tree-sha1 = "25428d5b46ed59dad2f9e400ff752627c6d9d6ad"
 libc = "musl"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "6573a14b09550159b4048d180ffce686eef2937183b0dbd40eb41e45692c7018"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.i686-linux-musl.tar.gz"
+    sha256 = "460918161bfe957f6686f008ef0c2238626f8e478334d8b5ac4b97411c7ec0e5"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.i686-linux-musl.tar.gz"
 [[PCRE2]]
 arch = "i686"
-git-tree-sha1 = "04465d29f0fd8955471b9388063eb17876c084e1"
+git-tree-sha1 = "cf9b43314b9a6e6bdfdccd7a2a337a254318b444"
 os = "windows"
 
     [[PCRE2.download]]
-    sha256 = "cf1e2818dda13946326882a81ecf3674c9f31fe431b35766e02f12a8a86d1045"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.i686-w64-mingw32.tar.gz"
+    sha256 = "2786cc654fca6294ee6bb2e649ebf1e1b268c84029a240b4285bfa5083af4179"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.i686-w64-mingw32.tar.gz"
 [[PCRE2]]
 arch = "powerpc64le"
-git-tree-sha1 = "d38764e56592c762da8ced0dc741033085e801fc"
+git-tree-sha1 = "07f19471a2f9a26dcc797eb8ace44132a34dae5f"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "eebfea5236d29b52b75b9899de33125ab9f2600166ec48c2ecbcd9b16f24669a"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4b18b89b207dbc077ee7eee14032d3ef687b47123a5c3769347fd587d378802d"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.powerpc64le-linux-gnu.tar.gz"
 [[PCRE2]]
 arch = "riscv64"
-git-tree-sha1 = "b048bb37d2ea9e580ff191799570f97d31d27d01"
+git-tree-sha1 = "9fb9b5e2dcd3e30e55c2cbf883f6ffe69570f078"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "3014ac18dd533dfed1ce8b38c83197aa8881f4e3e3ef58897a36aa8900dbaade"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "d224c799e2528b0b456829621f8202f5b564664b49b8e25155c8787c3b42f297"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.riscv64-linux-gnu.tar.gz"
 [[PCRE2]]
 arch = "x86_64"
-git-tree-sha1 = "afe3ffbff5dc3c8979f67fc531d7249e5ac3869a"
+git-tree-sha1 = "fa50c701ddf1b29b00fc4e0ddfdec79d427dec3b"
 os = "macos"
 
     [[PCRE2.download]]
-    sha256 = "629739211cff33512b877f0e504ce2dd23c5160cb19c3df211ce55a6f2d242ef"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "a0f457775b613942505cae258b54faeb7c51f13e91cfada3443541dd28f8925b"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.x86_64-apple-darwin.tar.gz"
 [[PCRE2]]
 arch = "x86_64"
-git-tree-sha1 = "18f409bcda565482c2eee5d9111c25ed33361519"
+git-tree-sha1 = "d9ab8099e201e54bf59a964d1dab8e34f4a476a4"
 libc = "glibc"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "ec6d1c85b814eca01a07c36d799680d9d9389ed802ea59ef5991adeaf0fc346c"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "6e27ceac9410e673952f572917ce436b9f5cd00e8e15c4fec508349c29d4bdaa"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.x86_64-linux-gnu.tar.gz"
 [[PCRE2]]
 arch = "x86_64"
-git-tree-sha1 = "be43c52a686751d2d984cfea40df05592c019ec8"
+git-tree-sha1 = "99d2afae726e55c88e033b448b953adb949d8edb"
 libc = "glibc"
 os = "linux"
 sanitize = "memory"
 
     [[PCRE2.download]]
-    sha256 = "bd5b7daf323b857c39a7e484b08b6090ec4067f8ee25447cc85aeff319e3aad4"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
+    sha256 = "9bff44b0db5aa349e8b96025dde056b71e8cdf2f055644eb7698866006d9a087"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
 [[PCRE2]]
 arch = "x86_64"
-git-tree-sha1 = "3c62257a3f22c536e0a7e34628bc6140534d7336"
+git-tree-sha1 = "f5982dc6ada76f517253c13fe5c5c1af70d4539a"
 libc = "musl"
 os = "linux"
 
     [[PCRE2.download]]
-    sha256 = "d776f90e2b67801e53b78d99ebe8f31cf209f38e5ac3e59d1723e4de973d1d1c"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.x86_64-linux-musl.tar.gz"
+    sha256 = "39446114148e63162db27f34f4cac5158fc1c6a9549bb33c7c875dd6d002e216"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.x86_64-linux-musl.tar.gz"
 [[PCRE2]]
 arch = "x86_64"
-git-tree-sha1 = "fac6642d187783937bf9e0bfeec98dfb5fb20e23"
+git-tree-sha1 = "3ee9e26469e9d7edf7f984c3c0a798af5076ed86"
 os = "freebsd"
 
     [[PCRE2.download]]
-    sha256 = "59700b6ab217c5edc204510e2509dda67973b0b6cdd0281203a439e9dd5ac21b"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "778f0dac6e7902def575fc4b18bc24d0518cfbed40af3ba4bd005495d74292b9"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.x86_64-unknown-freebsd.tar.gz"
 [[PCRE2]]
 arch = "x86_64"
-git-tree-sha1 = "d83376e9df85ade264bf94b56cee0b01a1c25d04"
+git-tree-sha1 = "344aec1721bd49460889aa4cd1e2252b273f6ba5"
 os = "windows"
 
     [[PCRE2.download]]
-    sha256 = "5038e623a07a07e142043159e014130a100f9ee7fe3df41f8718420c10b2d1c8"
-    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.47.0+0/PCRE2.v10.47.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "418692ad6177d459e6403c52b49149296c76ea5553440052e09857f320c65b3f"
+    url = "https://github.com/JuliaBinaryWrappers/PCRE2_jll.jl/releases/download/PCRE2-v10.48.0+0/PCRE2.v10.48.0.x86_64-w64-mingw32.tar.gz"
